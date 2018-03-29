@@ -159,6 +159,7 @@ async function generateLatLng() {
     function updateLocation () {
         const scrollTop = $('#topOverlay').scrollTop();
         let last_bak = last;
+        last = -1;
 
         for (let i = 0; i < points.length; i++) {
             if (scrollTop >= distances[i] - 300) {
@@ -196,7 +197,6 @@ async function generateLatLng() {
             
             $('#sidePanel .image').html('');
             $('#sidePanel .image').append(pictures[last]);
-            console.log(pictures[last]);
             
             $('#sidePanel .location').text(here.place);
 
