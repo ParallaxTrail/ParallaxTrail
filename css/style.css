@@ -1,3 +1,8 @@
+
+body {
+    font-family: Verdana;
+}
+
 #map {
     position: fixed !important;
     top: 0;
@@ -25,16 +30,34 @@ a[href^="https://maps.google.com/maps"]{display:none !important}
     right: 0;
     background: rgba(255, 255, 255, 0.2);
     overflow: auto;
+    margin: 0;
+    padding: 0;
 }
 
-#topOverlay #greenLine {
+#sidePanel {
+    background-color: rgba(0,250,154,0.5);
+    position: fixed;
+    top: 0;
+    right: 2%;
+    height: 100%;
+    width: 25%;
+    border-left: 1px solid gray;
+    z-index: 9;
+    padding: 10px;
+}
+
+#sidePanel p {
+    text-align: justify;
+}
+
+#greenLine {
     background: green;
     width: 15px;
-    margin-bottom: 30%;
     margin-left: 10px;
+    padding: 0;
 }
 
-#topOverlay #greenLine .point {
+#greenLine .point {
     position: absolute;
     width: 20px;
     height: 20px;
@@ -42,4 +65,32 @@ a[href^="https://maps.google.com/maps"]{display:none !important}
     border-radius: 50%;
     border: 2px solid black;
     margin-left: -4.5px;
+}
+
+#greenLine .point.active {
+    background-color: cyan;
+}
+
+#youreHereName {
+    position: fixed;
+    position: fixed;
+    top: 10px;
+    left: 5%;
+    font-family: Arial;
+    font-size: 20px;
+    z-index: 9;
+}
+
+#youreHereMarker {
+    /* HIDE IT */
+    display: none;
+    position: fixed;
+    top: 200px;
+    left: 0;
+    z-index: 9;
+    width: 20px;
+    height: 2px;
+    padding: 0;
+    margin: 0;
+    background-color: red;
 }
