@@ -1,285 +1,382 @@
 [
-	{
-		"name": "Le lieu unique",
-		"place": "2 Quai Ferdinand Favre",
-		"website": "http://www.lelieuunique.com/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/09/21/259297-full_lieuuniquejpg.jpg",
-		"description": "Située en bordure du Canal Saint-Félix, à proximité de la gare SNCF et du centre ville, l’ex-usine LU revit depuis le 1er janvier 2000 au rythme d’un centre d’arts atypique : le lieu unique."
-	},
-
-	{
-		"name": "Nymphéa ANGE LECCIA",
-		"place": "Arrêt Duchesse Anne",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/283400-nymphea_fulljpg.jpg",
-		"description": "D’abord peintre, Ange Leccia se tourne rapidement vers les arts filmiques. Ses “arrangements”, comme il les nomme, naissent d’un travail sur l’image, filmée ou photographique, qu’il déchire, ralentit, découpe."		
-	},
-
-	{
-		"name": "AIRE DE JEUX KINYA MARUYAMA",
-		"place": "Square Élisa Mercœur, Cours John Kennedy",
-		"website": "",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/709716-aire_de_jeux_fulljpg.jpg",
-		"description": "Au milieu de ce parc, un petit espace clos abrite une aire de jeux singulière. Kinya Maruyama, architecte et artiste japonais, y fait naître un monstre marin libéré des sables profonds."		
-	},
-
-	{
-		"name": "Feydball BARRÉ-LAMBOT ARCHITECTES",
-		"place": "Cours Franklin Roosevelt",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10829f15-feydball_full.jpg",
-		"description": "Côté carré Feydeau, l’agence nantaise Barré-Lambot, associée au paysagiste Guillaume Sevin, invite à chausser les crampons en créant le Feydball, dont le nom condense celui d’un site – Feydeau – et celui d’un sport – le football. "		
-	},
-
-	{
-		"name": "Château de Nantes",
-		"place": "4 place Marc Elder",
-		"website": "http://www.chateaunantes.fr/fr",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/08/16/156929648c9-Full_musee.jpg",
-		"description": "Implanté dans le cœur historique de Nantes, le Château des ducs de Bretagne est le monument-phare de son patrimoine urbain, avec la Cathédrale Saint-Pierre."		
-	},
-
-	{
-		"name": "STATIONS GOURMANDES",
-		"place": "AAAAAA",
-		"website": "https://jardins.nantes.fr/N/Jardin/Activite-Autre/Stations-Gourmandes.asp",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/642271-les_stations_gourmandes_fulljpg.jpg",
-		"description": "Depuis Le Voyage à Nantes 2012, chacun peut venir pique-niquer ou cueillir fruits, légumes et herbes aromatiques dans ces vergers et potagers urbains. Les cultures agricoles, inattendues au cœur de la ville, incitent à redécouvrir les plantes qui nous nourrissent."		
-	},
-
-	{
-		"name": "De Temps en Temps FRANÇOIS MORELLET",
-		"place": "Quai Fernand Crouan",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10862c7f-detempsentemps_full.jpg",
-		"description": "Le bâtiment de la mutuelle Harmonie Atlantique a été construit dans les années 1960 et en possède la force architecturale. Aujourd’hui il devient le support d’une image nouvelle grâce à sa rénovation, signée CANAL Atelier d’architecture (Daniel et Patrick Rubin), qui habille les 6 000 m2 de la façade d’un filtre de verre et d’acier. Dès la conception, Harmonie Atlantique a envisagé d’y intégrer une œuvre."		
-	},
-
-	{
-		"name": "Sans Titre JENNY HOLZER",
-		"place": "Palais de Justice, 19 Quai François Mitterrand",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10961d41-sanstitre_full.jpg",
-		"description": "L’architecture imposante du Palais de justice proposée par Jean Nouvel (2000) suggère par ses volumes, sa géométrie implacable, son jeu d’ombre et de lumière la puissance et la force de la justice."		
-	},
-
-	{
-		"name": "La Pointe Noire Studio Katra",
-		"place": "25 Quai François Mitterrand",
-		"website": "https://esperancecafe.com/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c1098605c-lapointenoire_full.jpg",
-		"description": "La dynamique de collaboration initiée 
-	entre des créatifs nantais et des entreprises locales se poursuit ! l’Espérance café convie le studio Katra, agence de jeunes designers nantais, à penser sa terrasse. "		
-	},
-
-	{
-		"name": "MES TRIPES SONT DES POISSONS D'ARGENT JULIEN SALAUD",
-		"place": "6 Rue Deurbroucq",
-		"website": "http://www.nantes.fr/piscine-leo-lagrange",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/11/03/15829a5f56d-header_piscine.jpg",
-		"description": "Julien Salaud interroge par sa pratique les liens, les forces et la symbolique qui unissent l’homme à la nature. Il poursuit ici son appréhension d’un élément naturel : l’eau."		
-	},
-
-	{
-		"name": "« Canadienne » COLLECTIF FICHTRE",
-		"place": "Terrasse du Restaurant le 1, 18 Quai François Mitterrand",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c109b7159-canadienne_full.jpg",
-		"description": "La création dans l’espace public, installée de manière temporaire ou définitive, participe au développement territorial pensé sur le long terme. Dès 2007, ce pari est très bien compris, et les entreprises elles-mêmes deviennent alors moteur de créativité : c’est à nos côtés qu’elles font le choix de porter l’art au cœur de la cité."		
-	},
-
-	{
-		"name": "Ping-Pong Park Laurent Perbos",
-		"place": "Tramway ligne 1, arrêt Médiathèque puis 	traverser la passerelle Schoelcher",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/28/15d896acfc6-pingpongpark_glycine_full.jpg",
-		"description": "L’univers du sport est bien présent dans le travail de Laurent Perbos, qui s’amuse régulièrement à détourner terrains de jeux populaires et autres objets caractéristiques d’un sport (ballon de football, cible de fléchettes) auxquels il confère de nouvelles proportions. "		
-	},
-
-	{
-		"name": "Echoes JOCELYN COTTENCIN",
-		"place": "6 Quai François Mitterrand, École Nationale Supérieure d'Architecture nantes",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a211c4-echoes_full.jpg",
-		"description": "C’est en touche-à-tout que Jocelyn Cottencin développe sa pratique : les arts graphiques y rejoignent la performance, le design y côtoie les arts visuels. Un dénominateur commun : le mot."		
-	},
-
-	{
-		"name": "L'Absence ATELIER VAN LIESHOUT",
-		"place": "6 Rue La Noue Bras de Fer",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a4c2b3-labscence_full.jpg",
-		"description": "L’Absence est une sculpture qui répond à son environnement architectural. Elle offre l’apparence d’une masse mouvante et vivante aux multiples protubérances, comme l’incarnation d’un geste dénué de limites, de forme ou de fonction. Cette forme intuitive est habitable : l’artiste en fait un lieu de vie et de discussion."		
-	},
-
-	{
-		"name": " The Zebra Crossing, Regulations and General Directions ANGELA BULLOCH",
-		"place": "Bâtiment Manny 19 bis rue La Noue Bras de Fer",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/521174-the_zebra_crossing_fulljpg.jpg",
-		"description": "Angela Bulloch cherche à détourner des systèmes existants, règles ou structures. Ici, l’œuvre signale Manny et le connecte à son environnement immédiat."		
-	},
-
-	{
-		"name": "Air ROLF JULIUS",
-		"place": "Bâtiment Manny, 19 bis rue La Noue Bras de Fer",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a6cd7a-air_full.jpg",
-		"description": "Dans son travail, Rolf Julius cherchait inlassablement à mettre au jour la relation entre musique et sculpture, ou comment créer de “la musique pour les yeux”, titre d’une de ses compositions."		
-	},
-
-	{
-		"name": "Mètre à Ruban LILIAN BOURGEAT",
-		"place": "32 rue La Noue Bras de Fer",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/669424-metre_a_ruban_fulljpg.jpg",
-		"description": "Lilian Bourgeat s’évertue à dépasser l’ordinaire, au sens propre comme au sens figuré. Il s’attache à surdimensionner des objets de notre quotidien tout en conservant leur exact aspect d’origine. Ceux-ci s’affranchissent de leur banalité pour acquérir un statut extra-ordinaire, quasi iconique."		
-	},
-
-	{
-		"name": "Traverses Aurélien Bory",
-		"place": "2 Boulevard Léon Bureau",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10ab9a10-traverses_full.jpg",
-		"description": "À la traversée droite et réglementaire, Aurélien Bory préfère l’idée plus poétique des chemins de traverse et imagine de nombreuses lignes aux courbes généreuses pour relier les deux rives d'un boulevard."		
-	},
-
-	{
-		"name": "Station Prouvé JEAN PROUVÉ",
-		"place": "Parc des Chantiers",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/383446-station_prouve_fulljpg.jpg",
-		"description": "Jean Prouvé est considéré comme l’un des grands inventeurs de l’architecture du XXe siècle, et ses créations comptent parmi les témoignages les plus significatifs de la période moderne. "		
-	},
-
-	{
-		"name": "Les Anneaux DANIEL BUREN ET PATRICK BOUCHAIN",
-		"place": "Quai des Antilles",
-		"website": "http://www.estuaire.info/fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10b96b34-lesanneaux_full.jpg",
-		"description": "Une série de 18 anneaux se tourne vers le fleuve, offrant autant de découpages sur le paysage. Cette perception est encore différente la nuit quand les anneaux s’auréolent de rouge, vert et bleu."		
-	},
-	{
-		"name": "Trafic Ador & Semor",
-		"place": "",
-		"website": "http://www.pickup-prod.com/projets/parade-balade-distorsion/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c1076b0b4-trafic_full.jpg",
-		"description": "Les Nantais Ador & Semor sortent leurs crayons géants et offrent à la vue, depuis le quai des Antilles, un défilé burlesque et monumental."		
-	},
-	{
-		"name": "HAB Galerie",
-		"place": "21 Quai des Antilles",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/08/04/839696-full_habjpg_0.jpg",
-		"description": "Situé à la pointe ouest de l’île de Nantes, le Hangar 21 est plus connu de la population sous le nom de Hangar à Bananes, un surnom qu’il tient de son histoire : spécialement conçu en 1949-50 pour recevoir des primeurs, bananes et ananas venant d’Afrique déchargés, manutentionnés et stockés dans un hangar climatisé"		
-	},
-	{
-		"name": "Résolution des forces en présence VINCENT MAUGER",
-		"place": "Parc des Chantiers",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10bb9b42-resolutiondesforcesenpresence_full.jpg",
-		"description": "On se souvient de l’imposante sculpture qu’avait créée Vincent Mauger pour la place du Bouffay lors du Voyage à Nantes 2014. De longs pieux de bois fixés à une matrice centrale évoquant d’ingénieuses machineries formaient cet étrange objet."	
-	},
-	{
-		"name": "On va marcher sur la lune DETROIT ARCHITECTES AVEC BRUNO PEINADO",
-		"place": "Au pied de la grue jaune Quai Fernand Crouan",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/03/09/15ab25bf80c-Header.jpg",
-		"description": "Au coeur du Parc des Chantiers, ce playground du Voyage à Nantes invite au jeu et à la rêverie."		
-	},
-	{
-		"name": "LE CARROUSEL DES MONDES MARINS",
-		"place": "Parc des Chantiers, Boulevard Léon Bureau",
-		"website": "https://www.lesmachines-nantes.fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/451753-carrousel_des_mondes_marins_fulljpg.jpg",
-		"description": "Le carrousel (25 mètres de haut, 20 mètres de diamètre) est une incroyable sculpture dédiée à la mer."		
-	},
-	{
-		"name": "Les Machines et l'Éléphant",
-		"place": "Les Machines de l'île, 2 Boulevard Léon Bureau",
-		"website": "https://www.lesmachines-nantes.fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/782802-la_galerie_des_machines_le_grand_elephant_fulljpg.jpg",
-		"description": "C’est un bestiaire de machines vivantes et monumentales qui s’échappe aujourd’hui des Nefs des anciens chantiers navals. Ce lieu surprenant est issu de l’imaginaire de Pierre Orefice et François Delarozière ; ce dernier y a installé son atelier avec la compagnie La Machine."		
-	},
-	{
-		"name": "L'Arbre à Basket AGENCE A/LTA",
-		"place": "Parc des Chantiers, Boulevard Léon Bureau",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10c6ea99-larbreabasket_full.jpg",
-		"description": "Installé à l’occasion du Voyage à Nantes 2012 devant la Maison des hommes et des techniques, cet Arbre à basket est un équipement librement praticable par les usagers ! "		
-	},
-
-	{
-		"name": "Mémorial de l’Abolition de l’Esclavage KRZYSZTOF WODICZKO ET JULIAN BONDER",
-		"place": "Quai de la Fosse",
-		"website": "http://memorial.nantes.fr/",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10c92b81-memorial_full.jpg",
-		"description": "Au XVIIIe siècle, Nantes devient le premier port négrier français."		
-	},
-	
-	{
-		"name": "Les Serpentants, chantier des Architextures Johann Le Guillerm",
-		"place": "Jardins du Musée Dobrée, 18 Rue Voltaire",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/17/15c1677180e-lesserpentants_full.jpg",
-		"description": "Les Architextures perturbent la perception, ouvrent le champ à d’autres possibles."		
-	},	
-	{
-		"name": "Voyage dans les collections",
-		"place": "18 Rue Voltaire",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/10/02/15edc541c9d-Header-Voyage%20dans%20les%20collections%202.jpg",
-		"description": "Pour la troisième année consécutive, la Département de Loire-Atlantique ouvre une partie des espaces du musée Dorée pour une exposition florilège."		
-	},	
-	{
-		"name": "Le Nid JEAN JULLIEN",
-		"place": "32e étage, Tour Bretagne, Place de Bretagne",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/196042-le_nid_fulljpg.jpg",
-		"description": "Au 32e étage, Le Nid est le refuge  d’un immense oiseau blanc, à moitié  endormi, qui veille sur la ville."		
-	},	
-	{
-		"name": "Cours à travers Pierre-Alexandre Rémy",
-		"place": "Hôtel de ville - Mairie de Nantes, 29 Rue de Strasbourg",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/17/15d4fc8e8ee-header_mairie.jpg",
-		"description": "Cinq céramiques en grès émaillées de bleu de Sèvres dialoguent avec des lignes courbes de métal cherchant à s’affranchir de la gravité.
-	Sur 15 mètres de long, la sculpture s’insère dans les cloisons végétales constituées de plusieurs allées d’arbres."		
-	},	
-
-	{
-		"name": "Suspens de Nantes, 2012 CÉCILE BART",
-		"place": "Galeries Lafayette, 20 rue de la Marne",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/379613-suspens_de_nantes_fulljpg.jpg",
-		"description": "La trémie centrale de l’ancien magasin Decré peut faire penser à l’intérieur d’une caméra pointée vers le ciel, avec le roulement incessant des escalators et l’œil circulaire par lequel pénètre la lumière. Cécile Bart tire avantage du mouvement mécanique en faisant de l’ascension automatique l’occasion d’une expérience perceptive."		
-	},
-	{
-		"name": "Tombeau de François II MICHEL COLOMBE",
-		"place": "Cathédrale Saint-Pierre-et-Saint-Paul, Place Saint-Pierre",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/334013-tombreau_de_francois_2_fulljpg.jpg",
-		"description": "En accédant à la cathédrale par ses cryptes, on découvre l’histoire passionnante du tombeau de François II, chef-d’œuvre de Michel Colombe datant du début du XVIe siècle."		
-	},
-	{
-		"name": "Musée d'arts de Nantes",
-		"place": "Rue Georges Clemenceau",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/10/02/15edc6594a7-Header-Accrochage%20muse%20%20Muse%20darts%20de%20Nantes%20-%20C.%20Clos.jpg",
-		"description": "Le nouveau Musée d’arts de Nantes a réouvert en juin dernier après 6 ans de travaux. 30 % de surfaces d’expositions supplémentaires pour 900 œuvres. Elles s’étendent de l’art ancien à l’art contemporain, de la peinture à la vidéo. L’exigence artistique du musée le positionne déjà comme le plus grand musée de l’Ouest français. "		
-	},
-	{
-		"name": "Jardin des plantes",
-		"place": "rue Ecorchard (face gare SNCF)",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/11/02/1582607a34e-header_jardin.jpg",
-		"description": "2 accès principaux : rue Ecorchard, gare Nord / Place Sophie-Trébuchet Tramway migne 1, arrêt Gare SNCF Nord."		
-	},
-	{
-		"name": "Dépodépo Claude Ponti",
-		"place": "Jardin des plantes, Rue Stanislas Baudry",
-		"website": "AAAAAA",
-		"image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/17/15d4fef1273-header_depodepo.jpg",
-		"description": "Dans la continuité de ses créations dispersées ici et là dans le Jardin des plantes, Claude Ponti imagine un espace de jeux pour enfants : le Dépodépo."		
-	},
+    {
+        "name": "Le lieu unique",
+        "place": "2 Quai Ferdinand Favre",
+        "website": "http://www.lelieuunique.com/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/09/21/259297-full_lieuuniquejpg.jpg",
+        "description": "Située en bordure du Canal Saint-Félix, à proximité de la gare SNCF et du centre ville, l’ex-usine LU revit depuis le 1er janvier 2000 au rythme d’un centre d’arts atypique : le lieu unique.",
+        "latLng": {
+            "lat": 47.2121904,
+            "lng": -1.5407394999999724
+        }
+    },
+    {
+        "name": "Nymphéa ANGE LECCIA",
+        "place": "Arrêt Duchesse Anne",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/283400-nymphea_fulljpg.jpg",
+        "description": "D’abord peintre, Ange Leccia se tourne rapidement vers les arts filmiques. Ses “arrangements”, comme il les nomme, naissent d’un travail sur l’image, filmée ou photographique, qu’il déchire, ralentit, découpe."
+    },
+    {
+        "name": "AIRE DE JEUX KINYA MARUYAMA",
+        "place": "Square Élisa Mercœur, Cours John Kennedy",
+        "website": "",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/709716-aire_de_jeux_fulljpg.jpg",
+        "description": "Au milieu de ce parc, un petit espace clos abrite une aire de jeux singulière. Kinya Maruyama, architecte et artiste japonais, y fait naître un monstre marin libéré des sables profonds.",
+        "latLng": {
+            "lat": 47.2150294,
+            "lng": -1.5490293000000293
+        }
+    },
+    {
+        "name": "Feydball BARRÉ-LAMBOT ARCHITECTES",
+        "place": "Cours Franklin Roosevelt, nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10829f15-feydball_full.jpg",
+        "description": "Côté carré Feydeau, l’agence nantaise Barré-Lambot, associée au paysagiste Guillaume Sevin, invite à chausser les crampons en créant le Feydball, dont le nom condense celui d’un site – Feydeau – et celui d’un sport – le football. ",
+        "latLng": {
+            "lat": 47.2140808,
+            "lng": -1.554318700000067
+        }
+    },
+    {
+        "name": "Château de Nantes",
+        "place": "4 place Marc Elder",
+        "website": "http://www.chateaunantes.fr/fr",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/08/16/156929648c9-Full_musee.jpg",
+        "description": "Implanté dans le cœur historique de Nantes, le Château des ducs de Bretagne est le monument-phare de son patrimoine urbain, avec la Cathédrale Saint-Pierre.",
+        "latLng": {
+            "lat": 47.2155761,
+            "lng": -1.5490890999999465
+        }
+    },
+    {
+        "name": "STATIONS GOURMANDES",
+        "place": "Place Duchesse-Anne",
+        "website": "https://jardins.nantes.fr/N/Jardin/Activite-Autre/Stations-Gourmandes.asp",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/642271-les_stations_gourmandes_fulljpg.jpg",
+        "description": "Depuis Le Voyage à Nantes 2012, chacun peut venir pique-niquer ou cueillir fruits, légumes et herbes aromatiques dans ces vergers et potagers urbains. Les cultures agricoles, inattendues au cœur de la ville, incitent à redécouvrir les plantes qui nous nourrissent.",
+        "latLng": {
+            "lat": 47.2166725,
+            "lng": -1.5468607000000247
+        }
+    },
+    {
+        "name": "De Temps en Temps FRANÇOIS MORELLET",
+        "place": "Quai Fernand Crouan",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10862c7f-detempsentemps_full.jpg",
+        "description": "Le bâtiment de la mutuelle Harmonie Atlantique a été construit dans les années 1960 et en possède la force architecturale. Aujourd’hui il devient le support d’une image nouvelle grâce à sa rénovation, signée CANAL Atelier d’architecture (Daniel et Patrick Rubin), qui habille les 6 000 m2 de la façade d’un filtre de verre et d’acier. Dès la conception, Harmonie Atlantique a envisagé d’y intégrer une œuvre.",
+        "latLng": {
+            "lat": 47.2070812,
+            "lng": -1.5671595000000025
+        }
+    },
+    {
+        "name": "Sans Titre JENNY HOLZER",
+        "place": "Palais de Justice, 19 Quai François Mitterrand",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10961d41-sanstitre_full.jpg",
+        "description": "L’architecture imposante du Palais de justice proposée par Jean Nouvel (2000) suggère par ses volumes, sa géométrie implacable, son jeu d’ombre et de lumière la puissance et la force de la justice.",
+        "latLng": {
+            "lat": 47.2076418,
+            "lng": -1.5613888999999972
+        }
+    },
+    {
+        "name": "La Pointe Noire Studio Katra",
+        "place": "25 Quai François Mitterrand",
+        "website": "https://esperancecafe.com/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c1098605c-lapointenoire_full.jpg",
+        "description": "La dynamique de collaboration initiée entre des créatifs nantais et des entreprises locales se poursuit ! l’Espérance café convie le studio Katra, agence de jeunes designers nantais, à penser sa terrasse. ",
+        "latLng": {
+            "lat": 47.2079172,
+            "lng": -1.563311399999975
+        }
+    },
+    {
+        "name": "MES TRIPES SONT DES POISSONS D'ARGENT JULIEN SALAUD",
+        "place": "6 Rue Deurbroucq",
+        "website": "http://www.nantes.fr/piscine-leo-lagrange",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/11/03/15829a5f56d-header_piscine.jpg",
+        "description": "Julien Salaud interroge par sa pratique les liens, les forces et la symbolique qui unissent l’homme à la nature. Il poursuit ici son appréhension d’un élément naturel : l’eau.",
+        "latLng": {
+            "lat": 47.21003020000001,
+            "lng": -1.5590107000000444
+        }
+    },
+    {
+        "name": "« Canadienne » COLLECTIF FICHTRE",
+        "place": "Terrasse du Restaurant le 1, 18 Quai François Mitterrand",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c109b7159-canadienne_full.jpg",
+        "description": "La création dans l’espace public, installée de manière temporaire ou définitive, participe au développement territorial pensé sur le long terme. Dès 2007, ce pari est très bien compris, et les entreprises elles-mêmes deviennent alors moteur de créativité : c’est à nos côtés qu’elles font le choix de porter l’art au cœur de la cité.",
+        "latLng": {
+            "lat": 47.2080303,
+            "lng": -1.5604393999999502
+        }
+    },
+    {
+        "name": "Ping-Pong Park Laurent Perbos",
+        "place": "Tramway ligne 1, arrêt Médiathèque puis traverser la passerelle Schoelcher",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/28/15d896acfc6-pingpongpark_glycine_full.jpg",
+        "description": "L’univers du sport est bien présent dans le travail de Laurent Perbos, qui s’amuse régulièrement à détourner terrains de jeux populaires et autres objets caractéristiques d’un sport (ballon de football, cible de fléchettes) auxquels il confère de nouvelles proportions. "
+    },
+    {
+        "name": "Echoes JOCELYN COTTENCIN",
+        "place": "6 Quai François Mitterrand, École Nationale Supérieure d'Architecture nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a211c4-echoes_full.jpg",
+        "description": "C’est en touche-à-tout que Jocelyn Cottencin développe sa pratique : les arts graphiques y rejoignent la performance, le design y côtoie les arts visuels. Un dénominateur commun : le mot.",
+        "latLng": {
+            "lat": 47.2069912,
+            "lng": -1.5573335999999927
+        }
+    },
+    {
+        "name": "L'Absence ATELIER VAN LIESHOUT",
+        "place": "6 Rue La Noue Bras de Fer",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a4c2b3-labscence_full.jpg",
+        "description": "L’Absence est une sculpture qui répond à son environnement architectural. Elle offre l’apparence d’une masse mouvante et vivante aux multiples protubérances, comme l’incarnation d’un geste dénué de limites, de forme ou de fonction. Cette forme intuitive est habitable : l’artiste en fait un lieu de vie et de discussion.",
+        "latLng": {
+            "lat": 47.2073019,
+            "lng": -1.5578863000000638
+        }
+    },
+    {
+        "name": " The Zebra Crossing, Regulations and General Directions ANGELA BULLOCH",
+        "place": "Bâtiment Manny 19 bis rue La Noue Bras de Fer",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/521174-the_zebra_crossing_fulljpg.jpg",
+        "description": "Angela Bulloch cherche à détourner des systèmes existants, règles ou structures. Ici, l’œuvre signale Manny et le connecte à son environnement immédiat.",
+        "latLng": {
+            "lat": 47.2068836,
+            "lng": -1.56080529999997
+        }
+    },
+    {
+        "name": "Air ROLF JULIUS",
+        "place": "Bâtiment Manny, 19 bis rue La Noue Bras de Fer",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10a6cd7a-air_full.jpg",
+        "description": "Dans son travail, Rolf Julius cherchait inlassablement à mettre au jour la relation entre musique et sculpture, ou comment créer de “la musique pour les yeux”, titre d’une de ses compositions.",
+        "latLng": {
+            "lat": 47.2068836,
+            "lng": -1.56080529999997
+        }
+    },
+    {
+        "name": "Mètre à Ruban LILIAN BOURGEAT",
+        "place": "32 rue La Noue Bras de Fer",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/669424-metre_a_ruban_fulljpg.jpg",
+        "description": "Lilian Bourgeat s’évertue à dépasser l’ordinaire, au sens propre comme au sens figuré. Il s’attache à surdimensionner des objets de notre quotidien tout en conservant leur exact aspect d’origine. Ceux-ci s’affranchissent de leur banalité pour acquérir un statut extra-ordinaire, quasi iconique.",
+        "latLng": {
+            "lat": 47.2069441,
+            "lng": -1.562632399999984
+        }
+    },
+    {
+        "name": "Traverses Aurélien Bory",
+        "place": "2 Boulevard Léon Bureau",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10ab9a10-traverses_full.jpg",
+        "description": "À la traversée droite et réglementaire, Aurélien Bory préfère l’idée plus poétique des chemins de traverse et imagine de nombreuses lignes aux courbes généreuses pour relier les deux rives d'un boulevard.",
+        "latLng": {
+            "lat": 47.2055768,
+            "lng": -1.5643671999999924
+        }
+    },
+    {
+        "name": "Station Prouvé JEAN PROUVÉ",
+        "place": "station prouvé nantes",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/383446-station_prouve_fulljpg.jpg",
+        "description": "Jean Prouvé est considéré comme l’un des grands inventeurs de l’architecture du XXe siècle, et ses créations comptent parmi les témoignages les plus significatifs de la période moderne. ",
+        "latLng": {
+            "lat": 47.20521369999999,
+            "lng": -1.5667702000000645
+        }
+    },
+    {
+        "name": "Les Anneaux DANIEL BUREN ET PATRICK BOUCHAIN",
+        "place": "Quai des Antilles",
+        "website": "http://www.estuaire.info/fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10b96b34-lesanneaux_full.jpg",
+        "description": "Une série de 18 anneaux se tourne vers le fleuve, offrant autant de découpages sur le paysage. Cette perception est encore différente la nuit quand les anneaux s’auréolent de rouge, vert et bleu.",
+        "latLng": {
+            "lat": 47.2020345,
+            "lng": -1.5727729999999838
+        }
+    },
+    {
+        "name": "HAB Galerie",
+        "place": "21 Quai des Antilles",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/08/04/839696-full_habjpg_0.jpg",
+        "description": "Situé à la pointe ouest de l’île de Nantes, le Hangar 21 est plus connu de la population sous le nom de Hangar à Bananes, un surnom qu’il tient de son histoire : spécialement conçu en 1949-50 pour recevoir des primeurs, bananes et ananas venant d’Afrique déchargés, manutentionnés et stockés dans un hangar climatisé",
+        "latLng": {
+            "lat": 47.2008798,
+            "lng": -1.5732543000000305
+        }
+    },
+    {
+        "name": "Résolution des forces en présence VINCENT MAUGER",
+        "place": "Parc des Chantiers, nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10bb9b42-resolutiondesforcesenpresence_full.jpg",
+        "description": "On se souvient de l’imposante sculpture qu’avait créée Vincent Mauger pour la place du Bouffay lors du Voyage à Nantes 2014. De longs pieux de bois fixés à une matrice centrale évoquant d’ingénieuses machineries formaient cet étrange objet.",
+        "latLng": {
+            "lat": 47.205581,
+            "lng": -1.5640409999999747
+        }
+    },
+    {
+        "name": "On va marcher sur la lune DETROIT ARCHITECTES AVEC BRUNO PEINADO",
+        "place": "Au pied de la grue jaune Quai Fernand Crouan",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/03/09/15ab25bf80c-Header.jpg",
+        "description": "Au coeur du Parc des Chantiers, ce playground du Voyage à Nantes invite au jeu et à la rêverie."
+    },
+    {
+        "name": "LE CARROUSEL DES MONDES MARINS",
+        "place": "Parc des Chantiers, Boulevard Léon Bureau",
+        "website": "https://www.lesmachines-nantes.fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/451753-carrousel_des_mondes_marins_fulljpg.jpg",
+        "description": "Le carrousel (25 mètres de haut, 20 mètres de diamètre) est une incroyable sculpture dédiée à la mer.",
+        "latLng": {
+            "lat": 47.205581,
+            "lng": -1.5640409999999747
+        }
+    },
+    {
+        "name": "Les Machines et l'Éléphant",
+        "place": "Les Machines de l'île, 2 Boulevard Léon Bureau",
+        "website": "https://www.lesmachines-nantes.fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/26/782802-la_galerie_des_machines_le_grand_elephant_fulljpg.jpg",
+        "description": "C’est un bestiaire de machines vivantes et monumentales qui s’échappe aujourd’hui des Nefs des anciens chantiers navals. Ce lieu surprenant est issu de l’imaginaire de Pierre Orefice et François Delarozière ; ce dernier y a installé son atelier avec la compagnie La Machine.",
+        "latLng": {
+            "lat": 47.205581,
+            "lng": -1.5640409999999747
+        }
+    },
+    {
+        "name": "L'Arbre à Basket AGENCE A/LTA",
+        "place": "Parc des Chantiers, Boulevard Léon Bureau",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10c6ea99-larbreabasket_full.jpg",
+        "description": "Installé à l’occasion du Voyage à Nantes 2012 devant la Maison des hommes et des techniques, cet Arbre à basket est un équipement librement praticable par les usagers ! ",
+        "latLng": {
+            "lat": 47.205581,
+            "lng": -1.5640409999999747
+        }
+    },
+    {
+        "name": "Mémorial de l’Abolition de l’Esclavage KRZYSZTOF WODICZKO ET JULIAN BONDER",
+        "place": "Quai de la Fosse",
+        "website": "http://memorial.nantes.fr/",
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/16/15c10c92b81-memorial_full.jpg",
+        "description": "Au XVIIIe siècle, Nantes devient le premier port négrier français.",
+        "latLng": {
+            "lat": 47.20940150000001,
+            "lng": -1.5660179000000198
+        }
+    },
+    {
+        "name": "Les Serpentants, chantier des Architextures Johann Le Guillerm",
+        "place": "Jardins du Musée Dobrée, 18 Rue Voltaire,  Nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/05/17/15c1677180e-lesserpentants_full.jpg",
+        "description": "Les Architextures perturbent la perception, ouvrent le champ à d’autres possibles.",
+        "latLng": {
+            "lat": 47.2126306,
+            "lng": -1.5664878000000044
+        }
+    },
+    {
+        "name": "Voyage dans les collections",
+        "place": "18 Rue Voltaire, Nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/10/02/15edc541c9d-Header-Voyage%20dans%20les%20collections%202.jpg",
+        "description": "Pour la troisième année consécutive, la Département de Loire-Atlantique ouvre une partie des espaces du musée Dorée pour une exposition florilège.",
+        "latLng": {
+            "lat": 47.212604,
+            "lng": -1.5664729999999736
+        }
+    },
+    {
+        "name": "Le Nid JEAN JULLIEN",
+        "place": "32e étage, Tour Bretagne, Place de Bretagne",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/196042-le_nid_fulljpg.jpg",
+        "description": "Au 32e étage, Le Nid est le refuge  d’un immense oiseau blanc, à moitié  endormi, qui veille sur la ville.",
+        "latLng": {
+            "lat": 47.2176097,
+            "lng": -1.5582646999999952
+        }
+    },
+    {
+        "name": "Cours à travers Pierre-Alexandre Rémy",
+        "place": "Hôtel de ville - Mairie de Nantes, 29 Rue de Strasbourg",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/17/15d4fc8e8ee-header_mairie.jpg",
+        "description": "Cinq céramiques en grès émaillées de bleu de Sèvres dialoguent avec des lignes courbes de métal cherchant à s’affranchir de la gravité. Sur 15 mètres de long, la sculpture s’insère dans les cloisons végétales constituées de plusieurs allées d’arbres.",
+        "latLng": {
+            "lat": 47.2187078,
+            "lng": -1.55375939999999
+        }
+    },
+    {
+        "name": "Suspens de Nantes, 2012 CÉCILE BART",
+        "place": "Galeries Lafayette, 20 rue de la Marne",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/379613-suspens_de_nantes_fulljpg.jpg",
+        "description": "La trémie centrale de l’ancien magasin Decré peut faire penser à l’intérieur d’une caméra pointée vers le ciel, avec le roulement incessant des escalators et l’œil circulaire par lequel pénètre la lumière. Cécile Bart tire avantage du mouvement mécanique en faisant de l’ascension automatique l’occasion d’une expérience perceptive.",
+        "latLng": {
+            "lat": 47.2158372,
+            "lng": -1.5542923000000428
+        }
+    },
+    {
+        "name": "Tombeau de François II MICHEL COLOMBE",
+        "place": "Cathédrale Saint-Pierre-et-Saint-Paul, Place Saint-Pierre, Nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2015/05/28/334013-tombreau_de_francois_2_fulljpg.jpg",
+        "description": "En accédant à la cathédrale par ses cryptes, on découvre l’histoire passionnante du tombeau de François II, chef-d’œuvre de Michel Colombe datant du début du XVIe siècle.",
+        "latLng": {
+            "lat": 47.2183589,
+            "lng": -1.5501448999999639
+        }
+    },
+    {
+        "name": "Musée d'arts de Nantes",
+        "place": "Rue Georges Clemenceau, Nantes",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/10/02/15edc6594a7-Header-Accrochage%20muse%20%20Muse%20darts%20de%20Nantes%20-%20C.%20Clos.jpg",
+        "description": "Le nouveau Musée d’arts de Nantes a réouvert en juin dernier après 6 ans de travaux. 30 % de surfaces d’expositions supplémentaires pour 900 œuvres. Elles s’étendent de l’art ancien à l’art contemporain, de la peinture à la vidéo. L’exigence artistique du musée le positionne déjà comme le plus grand musée de l’Ouest français. ",
+        "latLng": {
+            "lat": 47.2193748,
+            "lng": -1.5466264000000365
+        }
+    },
+    {
+        "name": "Jardin des plantes",
+        "place": "rue Ecorchard (face gare SNCF)",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2016/11/02/1582607a34e-header_jardin.jpg",
+        "description": "2 accès principaux : rue Ecorchard, gare Nord / Place Sophie-Trébuchet Tramway migne 1, arrêt Gare SNCF Nord."
+    },
+    {
+        "name": "Dépodépo Claude Ponti",
+        "place": "Jardin des plantes, Rue Stanislas Baudry",
+        "website": null,
+        "image": "http://sitvan.nantes-tourisme.com/sites/default/files/public/2017/07/17/15d4fef1273-header_depodepo.jpg",
+        "description": "Dans la continuité de ses créations dispersées ici et là dans le Jardin des plantes, Claude Ponti imagine un espace de jeux pour enfants : le Dépodépo.",
+        "latLng": {
+            "lat": 47.2193987,
+            "lng": -1.5425841999999648
+        }
+    }
 ]

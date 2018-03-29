@@ -1,0 +1,45 @@
+#map {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+}
+
+a[href^="http://maps.google.com/maps"]{display:none !important}
+a[href^="https://maps.google.com/maps"]{display:none !important}
+
+.gmnoprint a, .gmnoprint span, .gm-style-cc {
+    display:none;
+}
+.gmnoprint div {
+    background:none !important;
+}
+
+#topOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.2);
+    overflow: auto;
+}
+
+#topOverlay #greenLine {
+    background: green;
+    width: 15px;
+    margin-bottom: 30%;
+    margin-left: 10px;
+}
+
+#topOverlay #greenLine .point {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: white;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: -4.5px;
+}
