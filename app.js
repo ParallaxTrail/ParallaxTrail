@@ -161,7 +161,7 @@ async function generateLatLng() {
         let last_bak = last;
 
         for (let i = 0; i < points.length; i++) {
-            if (scrollTop >= distances[i] - 230) {
+            if (scrollTop >= distances[i] - 300) {
                 points[i].classList.add('active');
                 last = i;
             } else
