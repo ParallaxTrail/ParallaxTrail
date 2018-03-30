@@ -113,8 +113,8 @@ async function generateLatLng() {
 
         let img = new Image();
         img.setAttribute('src', locations[i].image);
-        img.setAttribute('width', 320);
-        img.setAttribute('height', 240);
+        img.setAttribute('width', 400);
+        img.setAttribute('height', 300);
         pictures.push(img);
     }
 
@@ -132,7 +132,7 @@ async function generateLatLng() {
             .filter((location) => location.latLng)
             .map((location) => location.latLng),
         geodesic: true,
-        strokeColor: '#FF0000',
+        strokeColor: '#51fc4e',
         strokeOpacity: 1.0,
         strokeWeight: 2,
         map: gmaps
@@ -193,7 +193,7 @@ async function generateLatLng() {
             gmaps.setZoom(initZoom + 1.5);
             gmaps.panTo(markers[last].position);
 
-            $('#sidePanel .name').text(here.name);
+				$('#sidePanel .name').html(here.name.split('\n').join('<br/>'));
             
             $('#sidePanel .image').html('');
             $('#sidePanel .image').append(pictures[last]);
