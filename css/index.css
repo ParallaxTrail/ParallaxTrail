@@ -1,0 +1,164 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+html {
+  font-family: 'Josefin Slab', 'Times';
+  background: #ffffff;
+  background: -moz-radial-gradient(center, ellipse cover,  #ffffff 0%, #f2f2f2 100%);
+  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#ffffff), color-stop(100%,#f2f2f2));
+  background: -webkit-radial-gradient(center, ellipse cover,  #ffffff 0%,#f2f2f2 100%);
+  background: -o-radial-gradient(center, ellipse cover,  #ffffff 0%,#f2f2f2 100%);
+  background: -ms-radial-gradient(center, ellipse cover,  #ffffff 0%,#f2f2f2 100%);
+  background: radial-gradient(ellipse at center,  #ffffff 0%,#f2f2f2 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f2f2f2',GradientType=1 );
+  height: 100%;
+  min-height: 460px;
+}
+
+body {
+}
+
+hgroup {
+  margin-left: -250px;
+  margin-top: -250px;
+  position: absolute;
+  width: 500px;
+  left: 50%;
+  top: 50%;
+}
+
+h1, h2, h3, h4, h5, p {
+  text-shadow: 2px 2px 4px #999;
+  text-align: center;
+  margin: auto;
+  color: #333;
+}
+
+h1 {
+  font-size: 68px;
+}
+
+h2 {
+  margin-bottom: 7px;
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 78px;
+}
+
+h4 {
+  font-size: 72px;
+}
+
+h5 {
+  font-size: 45px;
+}
+
+p {
+  margin-top: 54px;
+  font-size: 30px;
+}
+
+button {
+  padding: 10px;
+  padding-bottom: 2px;
+  background-color: #51fc4e;
+  margin: 10px;
+  color: white;
+  text-shadow: none;
+  box-shadow: 1px 0px 1px #45e542,
+				0px 1px 1px #34b231,
+				2px 1px 1px #45e542,
+				1px 2px 1px #34b231,
+				3px 2px 1px #45e542,
+				2px 3px 1px #34b231,
+				4px 3px 1px #45e542,
+				3px 4px 1px #34b231,
+				5px 4px 1px #45e542,
+				4px 5px 1px #34b231,
+				6px 5px 1px #45e542;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 11px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  position: relative;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 0px;
+  font-size: 45px;
+  font-weight: normal;
+  font-family: 'Josefin Slab', cursive;
+  outline: 0px;
+}
+
+button:hover {
+  background-color: #4ced49;
+}
+
+button:active {
+  box-shadow: 1px 0px 1px #45e542,
+				0px 1px 1px #34b231,
+				2px 1px 1px #45e542,
+				1px 2px 1px #34b231,
+				3px 2px 1px #45e542;
+  top: 2px;
+  left: 3px;
+}
+
+.text {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  top: -9px;
+  position: relative;
+  font-size: 13px;
+  color: #fff;
+  top: 7px;
+}
+
+.small {
+  font-size: 12px;
+}
+
+iframe {
+  margin: 5px;
+  float: right;
+}
+
+@media only screen and (max-width : 980px) {
+
+  .text {
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    padding-right: 25px;
+  }
+
+  .buttons {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    margin-left: -142px;
+  }
+}
+
+@media only screen and (max-width : 650px) {
+
+  h1 {
+    font-size: 65px;
+  }
+
+  hgroup {
+    width: 300px;
+    margin-left: -150px;
+  }
+}

@@ -3,33 +3,49 @@
 <head>
 	<title>Parallax Trail</title>
 	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- Load our beautiful favicon ;-) -->
 	<link rel="icon" type="image/png" href="img/favicon.png" />
-	<link rel="stylesheet" href="css/style.css"/>
-	<!-- Load Roboto font -->
+	<!-- Load this page's stylesheet -->
+	<link rel="stylesheet" href="css/carte.css"/>
+	<!-- Load the Roboto font from Google Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"> 
-	<!-- Load GSAP -->
+	<!-- Load jQuery -->
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 </head>
 <body>
+	<!-- A container for Google Maps -->
 	<div id="map"></div>
 
+	<!-- An overlay that covers the map -->
 	<div id="topOverlay">
+		<!-- The green line and its points -->
 		<div id="greenLine"></div>
+		<!-- The side panel which display informations about the active place -->
 		<div id="sidePanel">
 			<h1 class="name"></h1>
 			<div align="center" class="image"></div>
 			<p class="location"></p>
 			<p class="description"></p>
 			<p class="website"></p>
-			<p class="credits" >Site réalisé par Clément Eraud, Adam Lebon, Tom Mounet, Aimeric Onillon et Romain Supinski</p>
+			<p class="credits"><em>Site réalisé par Clément Eraud, Adam Lebon, Tom Mounet, Aimeric Onillon et Romain Supinski.</em></p>
 	</div>
+		<!-- The name of the current place -->
 		<div id="youreHereName"></div>
-		<div id="youreHereMarker"></div>
+
+		<!-- A marker that indicates where a point becomes active -->
+		<!-- Removed from now, but can be reactived easily -->
+		<!-- (in this case, also disables the "display: none" rule about it in the CSS) -->
+		<!--<div id="youreHereMarker"></div>-->
+
+		<!-- An element to make the user able to scroll a little after the green line ends -->
 		<div id="scrollSpacer"></div>
 	</div>
 
-	<!-- Load the site's script -->
+	<!-- Load the Google Maps API -->
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-	<script type="text/javascript" src="app.js"></script>
+	<!-- Load this page's JavaScript -->
+	<script type="text/javascript" src="js/app.js"></script>
 </body>
 </html>
